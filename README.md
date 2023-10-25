@@ -1,5 +1,5 @@
 # YT_clone
-Website made using react, material UI, and Youtube V3 rapidAPI. following JS Mastery tutorial
+Website made using react, material UI, and Youtube V3 rapidAPI. Following JS Mastery tutorial
 
 # Install
 - Download the files
